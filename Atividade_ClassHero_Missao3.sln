@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeClassHeroM3", "AtividadeClassHeroM3\AtividadeClassHeroM3.csproj", "{B02EB93F-7069-69EC-0C1B-D7E89F89729C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02EB93F-7069-69EC-0C1B-D7E89F89729C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02EB93F-7069-69EC-0C1B-D7E89F89729C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02EB93F-7069-69EC-0C1B-D7E89F89729C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02EB93F-7069-69EC-0C1B-D7E89F89729C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED8F19C8-B033-4839-97C4-A92A3E06F94B}
+	EndGlobalSection
+EndGlobal
